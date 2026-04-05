@@ -29,7 +29,7 @@ export const projects = [
     tech: ["React", "Tailwind CSS", "Next.js"],
     github: "https://github.com/ahmad-raza-programmer/PDF-Merger",
     demo: "https://pdf-merger-web-app.vercel.app/",
-    category: "React",
+    category: "Full Stack",
     featured: false,
   },
   {
@@ -59,10 +59,10 @@ export const projects = [
     title: "Apex Motors",
     description: "Apex Motors is a Company that Specializes in Designing and Manufacturing High Performance Electric Vehicles.",
     image: "/Apex Motors - Home.png",
-    tech: ["React", "Tailwind CSS", "Framer Motion"],
-    github: "#",
-    demo: "#",
-    category: "React",
+    tech: ["React", "TypeScript", "Tailwind CSS"],
+    github: "https://github.com/ahmad-raza-programmer/Apex-Motor",
+    demo: "https://apex-motor-website.vercel.app",
+    category: "Agency Website",
     featured: false,
   },
 ];
